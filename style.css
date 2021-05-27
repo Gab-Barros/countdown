@@ -1,0 +1,65 @@
+/* RESET */
+body,
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Red Hat Text", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Background */
+
+body {
+  background-image: url("/assets/pattern-hills.svg"),
+    url("/assets/bg-stars.svg"),
+    linear-gradient(to bottom, hsl(234, 17%, 12%), hsl(235, 16%, 14%));
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center bottom;
+  min-height: 100vh;
+  font-size: 14px;
+}
+
+/* Titulo */
+
+h1 {
+  padding: 100px 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 0.5rem;
+  font-size: 1.25rem;
+}
+
+/* Countdown */
+
+.countdown {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.dias,
+.horas,
+.minutos,
+.segundos {
+  border: 1px solid red;
+  padding: 40px;
+  font-size: 3rem;
+  color: hsl(345, 95%, 68%);
+  background: hsl(236, 21%, 26%);
+}
+
+/* Unidades */
+
+.countdown p {
+  text-align: center;
+  color: hsl(237, 18%, 59%);
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  font-size: 0.75em;
+}
