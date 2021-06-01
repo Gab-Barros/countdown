@@ -18,6 +18,8 @@ Sistema de countdown (contagem regressiva), comum em ofertas, promoções, inaug
 $ git clone <https://github.com/Gab-Barros/countdown.git>
 
 # abra o arquivo index.html no seu navegador de preferência.
+
+# também disponível em https://gab-barros.github.io/countdown/
 ```
 
 ### 🛠 Tecnologias
