@@ -13,8 +13,8 @@ h1 {
 /* Background */
 
 body {
-  background-image: url("/assets/pattern-hills.svg"),
-    url("/assets/bg-stars.svg"),
+  background-image: url("./assets/pattern-hills.svg"),
+    url("./assets/bg-stars.svg"),
     linear-gradient(to bottom, hsl(234, 17%, 12%) 10%, #30243a);
   background-repeat: no-repeat;
   background-size: contain;
