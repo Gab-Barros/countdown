@@ -21,8 +21,6 @@ $ git clone <https://github.com/Gab-Barros/countdown.git>
 # exemplo: "28 Jun 2021 12:00:00 GMT-0300" (Mẽs abreviado em inglês)
 
 # abra o arquivo index.html no seu navegador de preferência.
-
-# também disponível em https://gab-barros.github.io/countdown/
 ```
 
 ### 🛠 Tecnologias
